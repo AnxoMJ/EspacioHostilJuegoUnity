@@ -1,10 +1,10 @@
 # Proyecto Espacio Hostil
 
-[![Video](/doc/img/GuiaInicio/CaratulaJuego.PNG)](https://youtu.be/zevZA0qFvV8 "Video")
-
 ## Descripción
 
 Este proyecto consiste en un videojuego de plataformas en 2D de temática espacial programado en unity y C#.
+El motivo de este projecto es el de aprender algo nuevo y ver como se comporta el motor unity y ver sus posibilidades haciendo un videojuego basico de plataformas en 2D.
+Algunos de los assets usados son de la store de unity, los derechos de estos assets pertenecen a sus respectivos dueños.
 
 ## Instalación / Puesta en marcha
 
@@ -61,9 +61,9 @@ Para mí programar es como un puzzle, sabes cual tiene que ser el resultado fina
 
 
 
-**Formación:** Titulado en ASIR y pronto DAM
+**Formación:** Titulado en ASIR y DAM
 
-**Contacto:** a15manuelmd@iessanclemente.net
+**Contacto:** anxo.mazas@gmail.com
 
 ## Licencia
 
@@ -93,7 +93,7 @@ Por otro lado, siempre se aceptan mejoras del código existente o nuevas funcion
 
 Para hacer contribuciones, simplemente haz un push con las mejores que consideres o contáctame por correo con el encabezado **"Propuesta: tu propuesta"**
 
-Si encuentras algún problema, no dudes en hacérmelo saber [aquí.](https://gitlab.iessanclemente.net/damo/a15manuelmd/issues/new)
+Si encuentras algún problema, no dudes en hacérmelo saber.
 
 > Para bugs en el juego pon de título "bug" seguido por a que aspecto afecta(sonido, vídeo, movimiento, rendimiento....)
 
